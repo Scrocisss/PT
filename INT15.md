@@ -1,12 +1,12 @@
 # INT-15. Аудит сетевых устройств
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/INT15(1).PNG)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(1).PNG)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/INT15(2).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(2).png)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/INT15(3).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(3).png)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/INT15(4).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(4).png)
 
 # Материалы:
 
