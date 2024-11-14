@@ -2,11 +2,11 @@
 
 ![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(1).PNG)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(2).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(2).PNG)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(3).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(3).PNG)
 
-![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(4).png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/images/INT15(4).PNG)
 
 # Материалы:
 
