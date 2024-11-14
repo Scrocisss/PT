@@ -1,6 +1,6 @@
 # INT-15. Аудит сетевых устройств
 
-![Screenshot](https://github.com/Scrocisss/int14/raw/main/INT15(1).png)
+![Screenshot](https://github.com/Scrocisss/int14/raw/main/INT15(1).PNG)
 
 ![Screenshot](https://github.com/Scrocisss/int14/raw/main/INT15(2).png)
 
