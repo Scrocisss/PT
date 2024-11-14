@@ -1,6 +1,6 @@
 # INT-14. PT Black box: автоматизированный поиск уязвимостей в веб приложениях.
 
-![Screenshot](https://github.com/Scrocisss/int14/raw/main/int14.png)
+![Screenshot](https://github.com/Scrocisss/PT/raw/main/int14.png)
 
 # Материалы:
 
