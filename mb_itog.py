@@ -163,7 +163,7 @@ def crawl_links(start_url, max_depth):
 
 if __name__ == "__main__":
     start_url = "https://ru.wikipedia.org/wiki/Российский_государственный_университет_нефти_и_газа"
-    max_depth = 4
+    max_depth = 6
 
     crawl_links(start_url, max_depth)
     print("Результаты сохранены в базе данных.")
