@@ -14,3 +14,5 @@ https://positive-technologies.yonote.ru/share/246e6609-50cd-46f4-9749-e0731aeedb
 
 Отправить выполненное задание на почту ERyzhov@ptsecurity.com и поставить в копию pt-start@ptsecurity.com 
 Формат темы: INT-14-Фамилия_Имя
+
+# Для тех кто со Standoff там, что-то еще, нужно чекнуть tg
